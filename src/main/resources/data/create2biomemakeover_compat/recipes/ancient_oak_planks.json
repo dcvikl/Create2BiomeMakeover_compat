@@ -10,7 +10,7 @@
   "type": "create:cutting",
   "ingredients": [
     {
-      "item": "biomemakeover:ancient_oak_log"
+      "item": "biomemakeover:stripped_ancient_oak_log"
     }
   ],
   "processingTime": 50,
@@ -18,10 +18,6 @@
     {
       "item": "biomemakeover:ancient_oak_planks",
       "count": 6
-    },
-    {
-      "item": "farmersdelight:tree_bark",
-      "count": 4
     }
   ]
 }
