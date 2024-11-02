@@ -16,11 +16,7 @@
   "processingTime": 50,
   "results": [
     {
-      "item": "biomemakeover:stripped_ancient_oak_wood"
-    },
-    {
-      "item": "farmersdelight:tree_bark",
-      "count": 4
+      "item": "biomemakeover:ancient_oak_wood"
     }
   ]
 }
