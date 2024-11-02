@@ -1,0 +1,23 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "biomemakeover"
+      ]
+    }
+  ],
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "biomemakeover:stripped_ancient_oak_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "biomemakeover:ancient_oak_planks",
+      "count": 4
+    }
+  ]
+}
