@@ -2,10 +2,13 @@
   "schemaVersion": 1,
   "id": "create2biomemakeover_compat",
   "version": "${version}",
-  "name": "Create2BiomeMakeover.Compat",
-  "description": "Datapack mod that adds Recipes for all Biome Makeover Wood types to be processed with Create's Saw.",
-  "authors": ["scavengerhr"],
-  "contact": {},
+  "name": "Create-2-Biome-Makeover comp",
+  "description": "Datapack mod that adds Recipes for all Biome-Makeover Wood types to be processed with Create's Saw.",
+  "authors": ["ScavengerHr"],
+  "contact": {
+    "issues": "https://github.com/dcvikl/Create2BiomeMakeover_compat/issues",
+    "sources": "https://github.com/dcvikl/Create2BiomeMakeover_compat/tree/main"
+  },
   "license": "GPL-3.0",
   "icon": "assets/create2biomemakeover_compat/icon.png",
   "environment": "*",
@@ -18,8 +21,7 @@
     ]
   },
   "depends": {
-    "fabricloader": ">=${loader_version}",
-    "fabric": "*",
+    "fabric-api": "*",
     "minecraft": "${minecraft_version}"
   }
 }
