@@ -4,9 +4,23 @@ I like the Ancient Oak from Biome-Makeover, but I coudn't process it in my Lumbe
 
 As a bonus, this will also give the Tree Bark from FarmersDelight-Refabricated:
 
-## Log to Planks
+## Planks
 
-![Log2Planks](https://github.com/user-attachments/assets/9aa5189a-77c4-44b5-85ed-af8c11c5177a)
+from LOG:
+
+![Log2Planks{caption=from LOG}](https://github.com/user-attachments/assets/9aa5189a-77c4-44b5-85ed-af8c11c5177a)
+
+*from Stripped LOG
+
+![StrippedLog2Planks](https://github.com/user-attachments/assets/921b321f-97b3-41f5-9e67-fa26e1e4e7e1)
+
+from WOOD
+
+![Wood2Planks](https://github.com/user-attachments/assets/c5b1a3ab-e4ae-4e52-897e-1e14615f0c7f)
+
+from Stripped WOOD
+
+![StrippedWood2Planks](https://github.com/user-attachments/assets/be8359fa-d4d4-4e45-a306-ffaf9f87fd33)
 
 ## Log to Stripped Log / Wood
 
