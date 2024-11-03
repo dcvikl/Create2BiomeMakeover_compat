@@ -2,7 +2,7 @@
 
 I like the Ancient Oak from Biome-Makeover, but I coudn't process it in my Lumber Yard. So I made this little Datapack Mod.
 
-As a bonus, this will also give the Tree Bark from FarmersDelight-Refabricated:
+Now all Biome-Makeover Trees are sucessfully processed in my Lumber Yard and as a bonus, I also get the Tree Bark from FarmersDelight-Refabricated:
 
 ## Planks
 
@@ -31,3 +31,6 @@ from Stripped WOOD
 ## Log to Wood
 
 ![Log2Wood](https://github.com/user-attachments/assets/286d1165-f626-4749-ba40-da2affdea668)
+
+
+Feel free to use it in your Own ModPack. 
