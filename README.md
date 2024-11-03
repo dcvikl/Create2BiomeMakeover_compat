@@ -10,7 +10,7 @@ from LOG:
 
 ![Log2Planks{caption=from LOG}](https://github.com/user-attachments/assets/9aa5189a-77c4-44b5-85ed-af8c11c5177a)
 
-*from Stripped LOG
+from Stripped LOG
 
 ![StrippedLog2Planks](https://github.com/user-attachments/assets/921b321f-97b3-41f5-9e67-fa26e1e4e7e1)
 
