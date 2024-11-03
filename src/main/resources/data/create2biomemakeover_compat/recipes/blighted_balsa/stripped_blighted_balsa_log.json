@@ -1,0 +1,26 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "biomemakeover"
+      ]
+    }
+  ],
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "biomemakeover:stripped_blighted_balsa_log"
+    },
+    {
+      "item": "farmersdelight:tree_bark",
+      "count": 4
+    }
+  ]
+}
